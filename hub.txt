@@ -1,0 +1,5 @@
+hub TADs_PrCa_Hub
+shortLabel PrCa TAD Cohort
+longLabel Prostate Cancer Genomic TAD Annotation and Consensus Validation Hub
+genomesFile genomes.txt
+email nan.zhang@dkfz-heidelberg.de
