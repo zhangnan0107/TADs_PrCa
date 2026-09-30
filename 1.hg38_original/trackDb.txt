@@ -1,0 +1,2460 @@
+# ==================================================================
+# Folder 1: Original hg38 Tracks
+# ==================================================================
+
+track Folder1_hg38_Original
+compositeTrack on
+shortLabel 1. hg38 Original
+longLabel Folder 1: Original hg38 Multi-Window TAD Annotations
+visibility squish
+type bigBed 9 .
+itemRgb On
+
+    track BP1595983_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w10.bb
+    shortLabel BP1595983_w10
+    longLabel BP1595983_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w11.bb
+    shortLabel BP1595983_w11
+    longLabel BP1595983_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w12.bb
+    shortLabel BP1595983_w12
+    longLabel BP1595983_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w13.bb
+    shortLabel BP1595983_w13
+    longLabel BP1595983_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w14.bb
+    shortLabel BP1595983_w14
+    longLabel BP1595983_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w15.bb
+    shortLabel BP1595983_w15
+    longLabel BP1595983_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w16.bb
+    shortLabel BP1595983_w16
+    longLabel BP1595983_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w17.bb
+    shortLabel BP1595983_w17
+    longLabel BP1595983_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w18.bb
+    shortLabel BP1595983_w18
+    longLabel BP1595983_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w19.bb
+    shortLabel BP1595983_w19
+    longLabel BP1595983_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w20.bb
+    shortLabel BP1595983_w20
+    longLabel BP1595983_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w3.bb
+    shortLabel BP1595983_w3
+    longLabel BP1595983_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w4.bb
+    shortLabel BP1595983_w4
+    longLabel BP1595983_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w5.bb
+    shortLabel BP1595983_w5
+    longLabel BP1595983_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w6.bb
+    shortLabel BP1595983_w6
+    longLabel BP1595983_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w7.bb
+    shortLabel BP1595983_w7
+    longLabel BP1595983_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w8.bb
+    shortLabel BP1595983_w8
+    longLabel BP1595983_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1595983_hg38_w9.bb
+    shortLabel BP1595983_w9
+    longLabel BP1595983_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w10.bb
+    shortLabel BP1648133_w10
+    longLabel BP1648133_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w11.bb
+    shortLabel BP1648133_w11
+    longLabel BP1648133_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w12.bb
+    shortLabel BP1648133_w12
+    longLabel BP1648133_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w13.bb
+    shortLabel BP1648133_w13
+    longLabel BP1648133_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w14.bb
+    shortLabel BP1648133_w14
+    longLabel BP1648133_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w15.bb
+    shortLabel BP1648133_w15
+    longLabel BP1648133_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w16.bb
+    shortLabel BP1648133_w16
+    longLabel BP1648133_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w17.bb
+    shortLabel BP1648133_w17
+    longLabel BP1648133_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w18.bb
+    shortLabel BP1648133_w18
+    longLabel BP1648133_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w19.bb
+    shortLabel BP1648133_w19
+    longLabel BP1648133_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w20.bb
+    shortLabel BP1648133_w20
+    longLabel BP1648133_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w3.bb
+    shortLabel BP1648133_w3
+    longLabel BP1648133_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w4.bb
+    shortLabel BP1648133_w4
+    longLabel BP1648133_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w5.bb
+    shortLabel BP1648133_w5
+    longLabel BP1648133_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w6.bb
+    shortLabel BP1648133_w6
+    longLabel BP1648133_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w7.bb
+    shortLabel BP1648133_w7
+    longLabel BP1648133_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w8.bb
+    shortLabel BP1648133_w8
+    longLabel BP1648133_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1648133_hg38_w9.bb
+    shortLabel BP1648133_w9
+    longLabel BP1648133_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w10.bb
+    shortLabel BP1664855_w10
+    longLabel BP1664855_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w11.bb
+    shortLabel BP1664855_w11
+    longLabel BP1664855_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w12.bb
+    shortLabel BP1664855_w12
+    longLabel BP1664855_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w13.bb
+    shortLabel BP1664855_w13
+    longLabel BP1664855_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w14.bb
+    shortLabel BP1664855_w14
+    longLabel BP1664855_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w15.bb
+    shortLabel BP1664855_w15
+    longLabel BP1664855_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w16.bb
+    shortLabel BP1664855_w16
+    longLabel BP1664855_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w17.bb
+    shortLabel BP1664855_w17
+    longLabel BP1664855_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w18.bb
+    shortLabel BP1664855_w18
+    longLabel BP1664855_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w19.bb
+    shortLabel BP1664855_w19
+    longLabel BP1664855_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w20.bb
+    shortLabel BP1664855_w20
+    longLabel BP1664855_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w3.bb
+    shortLabel BP1664855_w3
+    longLabel BP1664855_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w4.bb
+    shortLabel BP1664855_w4
+    longLabel BP1664855_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w5.bb
+    shortLabel BP1664855_w5
+    longLabel BP1664855_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w6.bb
+    shortLabel BP1664855_w6
+    longLabel BP1664855_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w7.bb
+    shortLabel BP1664855_w7
+    longLabel BP1664855_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w8.bb
+    shortLabel BP1664855_w8
+    longLabel BP1664855_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl BP1664855_hg38_w9.bb
+    shortLabel BP1664855_w9
+    longLabel BP1664855_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w10.bb
+    shortLabel BP3320942_w10
+    longLabel BP3320942_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w11.bb
+    shortLabel BP3320942_w11
+    longLabel BP3320942_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w12.bb
+    shortLabel BP3320942_w12
+    longLabel BP3320942_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w13.bb
+    shortLabel BP3320942_w13
+    longLabel BP3320942_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w14.bb
+    shortLabel BP3320942_w14
+    longLabel BP3320942_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w15.bb
+    shortLabel BP3320942_w15
+    longLabel BP3320942_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w16.bb
+    shortLabel BP3320942_w16
+    longLabel BP3320942_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w17.bb
+    shortLabel BP3320942_w17
+    longLabel BP3320942_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w18.bb
+    shortLabel BP3320942_w18
+    longLabel BP3320942_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w19.bb
+    shortLabel BP3320942_w19
+    longLabel BP3320942_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w20.bb
+    shortLabel BP3320942_w20
+    longLabel BP3320942_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w3.bb
+    shortLabel BP3320942_w3
+    longLabel BP3320942_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w4.bb
+    shortLabel BP3320942_w4
+    longLabel BP3320942_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w5.bb
+    shortLabel BP3320942_w5
+    longLabel BP3320942_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w6.bb
+    shortLabel BP3320942_w6
+    longLabel BP3320942_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w7.bb
+    shortLabel BP3320942_w7
+    longLabel BP3320942_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w8.bb
+    shortLabel BP3320942_w8
+    longLabel BP3320942_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3320942_hg38_w9.bb
+    shortLabel BP3320942_w9
+    longLabel BP3320942_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w10.bb
+    shortLabel BP3330581_w10
+    longLabel BP3330581_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w11.bb
+    shortLabel BP3330581_w11
+    longLabel BP3330581_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w12.bb
+    shortLabel BP3330581_w12
+    longLabel BP3330581_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w13.bb
+    shortLabel BP3330581_w13
+    longLabel BP3330581_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w14.bb
+    shortLabel BP3330581_w14
+    longLabel BP3330581_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w15.bb
+    shortLabel BP3330581_w15
+    longLabel BP3330581_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w16.bb
+    shortLabel BP3330581_w16
+    longLabel BP3330581_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w17.bb
+    shortLabel BP3330581_w17
+    longLabel BP3330581_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w18.bb
+    shortLabel BP3330581_w18
+    longLabel BP3330581_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w19.bb
+    shortLabel BP3330581_w19
+    longLabel BP3330581_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w20.bb
+    shortLabel BP3330581_w20
+    longLabel BP3330581_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w3.bb
+    shortLabel BP3330581_w3
+    longLabel BP3330581_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w4.bb
+    shortLabel BP3330581_w4
+    longLabel BP3330581_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w5.bb
+    shortLabel BP3330581_w5
+    longLabel BP3330581_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w6.bb
+    shortLabel BP3330581_w6
+    longLabel BP3330581_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w7.bb
+    shortLabel BP3330581_w7
+    longLabel BP3330581_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w8.bb
+    shortLabel BP3330581_w8
+    longLabel BP3330581_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl BP3330581_hg38_w9.bb
+    shortLabel BP3330581_w9
+    longLabel BP3330581_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w10.bb
+    shortLabel CPCG0246_w10
+    longLabel CPCG0246_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w11.bb
+    shortLabel CPCG0246_w11
+    longLabel CPCG0246_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w12.bb
+    shortLabel CPCG0246_w12
+    longLabel CPCG0246_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w13.bb
+    shortLabel CPCG0246_w13
+    longLabel CPCG0246_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w14.bb
+    shortLabel CPCG0246_w14
+    longLabel CPCG0246_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w15.bb
+    shortLabel CPCG0246_w15
+    longLabel CPCG0246_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w16.bb
+    shortLabel CPCG0246_w16
+    longLabel CPCG0246_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w17.bb
+    shortLabel CPCG0246_w17
+    longLabel CPCG0246_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w18.bb
+    shortLabel CPCG0246_w18
+    longLabel CPCG0246_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w19.bb
+    shortLabel CPCG0246_w19
+    longLabel CPCG0246_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w20.bb
+    shortLabel CPCG0246_w20
+    longLabel CPCG0246_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w3.bb
+    shortLabel CPCG0246_w3
+    longLabel CPCG0246_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w4.bb
+    shortLabel CPCG0246_w4
+    longLabel CPCG0246_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w5.bb
+    shortLabel CPCG0246_w5
+    longLabel CPCG0246_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w6.bb
+    shortLabel CPCG0246_w6
+    longLabel CPCG0246_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w7.bb
+    shortLabel CPCG0246_w7
+    longLabel CPCG0246_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w8.bb
+    shortLabel CPCG0246_w8
+    longLabel CPCG0246_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0246_hg38_w9.bb
+    shortLabel CPCG0246_w9
+    longLabel CPCG0246_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w10.bb
+    shortLabel CPCG0255_w10
+    longLabel CPCG0255_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w11.bb
+    shortLabel CPCG0255_w11
+    longLabel CPCG0255_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w12.bb
+    shortLabel CPCG0255_w12
+    longLabel CPCG0255_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w13.bb
+    shortLabel CPCG0255_w13
+    longLabel CPCG0255_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w14.bb
+    shortLabel CPCG0255_w14
+    longLabel CPCG0255_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w15.bb
+    shortLabel CPCG0255_w15
+    longLabel CPCG0255_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w16.bb
+    shortLabel CPCG0255_w16
+    longLabel CPCG0255_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w17.bb
+    shortLabel CPCG0255_w17
+    longLabel CPCG0255_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w18.bb
+    shortLabel CPCG0255_w18
+    longLabel CPCG0255_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w19.bb
+    shortLabel CPCG0255_w19
+    longLabel CPCG0255_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w20.bb
+    shortLabel CPCG0255_w20
+    longLabel CPCG0255_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w3.bb
+    shortLabel CPCG0255_w3
+    longLabel CPCG0255_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w4.bb
+    shortLabel CPCG0255_w4
+    longLabel CPCG0255_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w5.bb
+    shortLabel CPCG0255_w5
+    longLabel CPCG0255_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w6.bb
+    shortLabel CPCG0255_w6
+    longLabel CPCG0255_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w7.bb
+    shortLabel CPCG0255_w7
+    longLabel CPCG0255_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w8.bb
+    shortLabel CPCG0255_w8
+    longLabel CPCG0255_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0255_hg38_w9.bb
+    shortLabel CPCG0255_w9
+    longLabel CPCG0255_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w10.bb
+    shortLabel CPCG0258_w10
+    longLabel CPCG0258_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w11.bb
+    shortLabel CPCG0258_w11
+    longLabel CPCG0258_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w12.bb
+    shortLabel CPCG0258_w12
+    longLabel CPCG0258_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w13.bb
+    shortLabel CPCG0258_w13
+    longLabel CPCG0258_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w14.bb
+    shortLabel CPCG0258_w14
+    longLabel CPCG0258_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w15.bb
+    shortLabel CPCG0258_w15
+    longLabel CPCG0258_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w16.bb
+    shortLabel CPCG0258_w16
+    longLabel CPCG0258_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w17.bb
+    shortLabel CPCG0258_w17
+    longLabel CPCG0258_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w18.bb
+    shortLabel CPCG0258_w18
+    longLabel CPCG0258_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w19.bb
+    shortLabel CPCG0258_w19
+    longLabel CPCG0258_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w20.bb
+    shortLabel CPCG0258_w20
+    longLabel CPCG0258_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w3.bb
+    shortLabel CPCG0258_w3
+    longLabel CPCG0258_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w4.bb
+    shortLabel CPCG0258_w4
+    longLabel CPCG0258_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w5.bb
+    shortLabel CPCG0258_w5
+    longLabel CPCG0258_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w6.bb
+    shortLabel CPCG0258_w6
+    longLabel CPCG0258_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w7.bb
+    shortLabel CPCG0258_w7
+    longLabel CPCG0258_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w8.bb
+    shortLabel CPCG0258_w8
+    longLabel CPCG0258_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0258_hg38_w9.bb
+    shortLabel CPCG0258_w9
+    longLabel CPCG0258_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w10.bb
+    shortLabel CPCG0268_w10
+    longLabel CPCG0268_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w11.bb
+    shortLabel CPCG0268_w11
+    longLabel CPCG0268_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w12.bb
+    shortLabel CPCG0268_w12
+    longLabel CPCG0268_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w13.bb
+    shortLabel CPCG0268_w13
+    longLabel CPCG0268_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w14.bb
+    shortLabel CPCG0268_w14
+    longLabel CPCG0268_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w15.bb
+    shortLabel CPCG0268_w15
+    longLabel CPCG0268_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w16.bb
+    shortLabel CPCG0268_w16
+    longLabel CPCG0268_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w17.bb
+    shortLabel CPCG0268_w17
+    longLabel CPCG0268_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w18.bb
+    shortLabel CPCG0268_w18
+    longLabel CPCG0268_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w19.bb
+    shortLabel CPCG0268_w19
+    longLabel CPCG0268_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w20.bb
+    shortLabel CPCG0268_w20
+    longLabel CPCG0268_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w3.bb
+    shortLabel CPCG0268_w3
+    longLabel CPCG0268_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w4.bb
+    shortLabel CPCG0268_w4
+    longLabel CPCG0268_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w5.bb
+    shortLabel CPCG0268_w5
+    longLabel CPCG0268_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w6.bb
+    shortLabel CPCG0268_w6
+    longLabel CPCG0268_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w7.bb
+    shortLabel CPCG0268_w7
+    longLabel CPCG0268_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w8.bb
+    shortLabel CPCG0268_w8
+    longLabel CPCG0268_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0268_hg38_w9.bb
+    shortLabel CPCG0268_w9
+    longLabel CPCG0268_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w10.bb
+    shortLabel CPCG0324_w10
+    longLabel CPCG0324_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w11.bb
+    shortLabel CPCG0324_w11
+    longLabel CPCG0324_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w12.bb
+    shortLabel CPCG0324_w12
+    longLabel CPCG0324_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w13.bb
+    shortLabel CPCG0324_w13
+    longLabel CPCG0324_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w14.bb
+    shortLabel CPCG0324_w14
+    longLabel CPCG0324_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w15.bb
+    shortLabel CPCG0324_w15
+    longLabel CPCG0324_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w16.bb
+    shortLabel CPCG0324_w16
+    longLabel CPCG0324_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w17.bb
+    shortLabel CPCG0324_w17
+    longLabel CPCG0324_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w18.bb
+    shortLabel CPCG0324_w18
+    longLabel CPCG0324_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w19.bb
+    shortLabel CPCG0324_w19
+    longLabel CPCG0324_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w20.bb
+    shortLabel CPCG0324_w20
+    longLabel CPCG0324_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w3.bb
+    shortLabel CPCG0324_w3
+    longLabel CPCG0324_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w4.bb
+    shortLabel CPCG0324_w4
+    longLabel CPCG0324_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w5.bb
+    shortLabel CPCG0324_w5
+    longLabel CPCG0324_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w6.bb
+    shortLabel CPCG0324_w6
+    longLabel CPCG0324_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w7.bb
+    shortLabel CPCG0324_w7
+    longLabel CPCG0324_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w8.bb
+    shortLabel CPCG0324_w8
+    longLabel CPCG0324_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0324_hg38_w9.bb
+    shortLabel CPCG0324_w9
+    longLabel CPCG0324_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w10.bb
+    shortLabel CPCG0331_w10
+    longLabel CPCG0331_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w11.bb
+    shortLabel CPCG0331_w11
+    longLabel CPCG0331_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w12.bb
+    shortLabel CPCG0331_w12
+    longLabel CPCG0331_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w13.bb
+    shortLabel CPCG0331_w13
+    longLabel CPCG0331_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w14.bb
+    shortLabel CPCG0331_w14
+    longLabel CPCG0331_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w15.bb
+    shortLabel CPCG0331_w15
+    longLabel CPCG0331_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w16.bb
+    shortLabel CPCG0331_w16
+    longLabel CPCG0331_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w17.bb
+    shortLabel CPCG0331_w17
+    longLabel CPCG0331_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w18.bb
+    shortLabel CPCG0331_w18
+    longLabel CPCG0331_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w19.bb
+    shortLabel CPCG0331_w19
+    longLabel CPCG0331_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w20.bb
+    shortLabel CPCG0331_w20
+    longLabel CPCG0331_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w3.bb
+    shortLabel CPCG0331_w3
+    longLabel CPCG0331_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w4.bb
+    shortLabel CPCG0331_w4
+    longLabel CPCG0331_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w5.bb
+    shortLabel CPCG0331_w5
+    longLabel CPCG0331_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w6.bb
+    shortLabel CPCG0331_w6
+    longLabel CPCG0331_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w7.bb
+    shortLabel CPCG0331_w7
+    longLabel CPCG0331_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w8.bb
+    shortLabel CPCG0331_w8
+    longLabel CPCG0331_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0331_hg38_w9.bb
+    shortLabel CPCG0331_w9
+    longLabel CPCG0331_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w10.bb
+    shortLabel CPCG0336_w10
+    longLabel CPCG0336_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w11.bb
+    shortLabel CPCG0336_w11
+    longLabel CPCG0336_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w12.bb
+    shortLabel CPCG0336_w12
+    longLabel CPCG0336_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w13.bb
+    shortLabel CPCG0336_w13
+    longLabel CPCG0336_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w14.bb
+    shortLabel CPCG0336_w14
+    longLabel CPCG0336_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w15.bb
+    shortLabel CPCG0336_w15
+    longLabel CPCG0336_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w16.bb
+    shortLabel CPCG0336_w16
+    longLabel CPCG0336_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w17.bb
+    shortLabel CPCG0336_w17
+    longLabel CPCG0336_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w18.bb
+    shortLabel CPCG0336_w18
+    longLabel CPCG0336_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w19.bb
+    shortLabel CPCG0336_w19
+    longLabel CPCG0336_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w20.bb
+    shortLabel CPCG0336_w20
+    longLabel CPCG0336_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w3.bb
+    shortLabel CPCG0336_w3
+    longLabel CPCG0336_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w4.bb
+    shortLabel CPCG0336_w4
+    longLabel CPCG0336_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w5.bb
+    shortLabel CPCG0336_w5
+    longLabel CPCG0336_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w6.bb
+    shortLabel CPCG0336_w6
+    longLabel CPCG0336_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w7.bb
+    shortLabel CPCG0336_w7
+    longLabel CPCG0336_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w8.bb
+    shortLabel CPCG0336_w8
+    longLabel CPCG0336_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0336_hg38_w9.bb
+    shortLabel CPCG0336_w9
+    longLabel CPCG0336_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w10.bb
+    shortLabel CPCG0339_w10
+    longLabel CPCG0339_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w11.bb
+    shortLabel CPCG0339_w11
+    longLabel CPCG0339_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w12.bb
+    shortLabel CPCG0339_w12
+    longLabel CPCG0339_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w13.bb
+    shortLabel CPCG0339_w13
+    longLabel CPCG0339_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w14.bb
+    shortLabel CPCG0339_w14
+    longLabel CPCG0339_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w15.bb
+    shortLabel CPCG0339_w15
+    longLabel CPCG0339_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w16.bb
+    shortLabel CPCG0339_w16
+    longLabel CPCG0339_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w17.bb
+    shortLabel CPCG0339_w17
+    longLabel CPCG0339_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w18.bb
+    shortLabel CPCG0339_w18
+    longLabel CPCG0339_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w19.bb
+    shortLabel CPCG0339_w19
+    longLabel CPCG0339_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w20.bb
+    shortLabel CPCG0339_w20
+    longLabel CPCG0339_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w3.bb
+    shortLabel CPCG0339_w3
+    longLabel CPCG0339_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w4.bb
+    shortLabel CPCG0339_w4
+    longLabel CPCG0339_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w5.bb
+    shortLabel CPCG0339_w5
+    longLabel CPCG0339_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w6.bb
+    shortLabel CPCG0339_w6
+    longLabel CPCG0339_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w7.bb
+    shortLabel CPCG0339_w7
+    longLabel CPCG0339_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w8.bb
+    shortLabel CPCG0339_w8
+    longLabel CPCG0339_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0339_hg38_w9.bb
+    shortLabel CPCG0339_w9
+    longLabel CPCG0339_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w10.bb
+    shortLabel CPCG0342_w10
+    longLabel CPCG0342_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w11.bb
+    shortLabel CPCG0342_w11
+    longLabel CPCG0342_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w12.bb
+    shortLabel CPCG0342_w12
+    longLabel CPCG0342_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w13.bb
+    shortLabel CPCG0342_w13
+    longLabel CPCG0342_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w14.bb
+    shortLabel CPCG0342_w14
+    longLabel CPCG0342_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w15.bb
+    shortLabel CPCG0342_w15
+    longLabel CPCG0342_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w16.bb
+    shortLabel CPCG0342_w16
+    longLabel CPCG0342_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w17.bb
+    shortLabel CPCG0342_w17
+    longLabel CPCG0342_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w18.bb
+    shortLabel CPCG0342_w18
+    longLabel CPCG0342_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w19.bb
+    shortLabel CPCG0342_w19
+    longLabel CPCG0342_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w20.bb
+    shortLabel CPCG0342_w20
+    longLabel CPCG0342_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w3.bb
+    shortLabel CPCG0342_w3
+    longLabel CPCG0342_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w4.bb
+    shortLabel CPCG0342_w4
+    longLabel CPCG0342_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w5.bb
+    shortLabel CPCG0342_w5
+    longLabel CPCG0342_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w6.bb
+    shortLabel CPCG0342_w6
+    longLabel CPCG0342_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w7.bb
+    shortLabel CPCG0342_w7
+    longLabel CPCG0342_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w8.bb
+    shortLabel CPCG0342_w8
+    longLabel CPCG0342_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0342_hg38_w9.bb
+    shortLabel CPCG0342_w9
+    longLabel CPCG0342_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w10.bb
+    shortLabel CPCG0345_w10
+    longLabel CPCG0345_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w11.bb
+    shortLabel CPCG0345_w11
+    longLabel CPCG0345_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w12.bb
+    shortLabel CPCG0345_w12
+    longLabel CPCG0345_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w13.bb
+    shortLabel CPCG0345_w13
+    longLabel CPCG0345_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w14.bb
+    shortLabel CPCG0345_w14
+    longLabel CPCG0345_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w15.bb
+    shortLabel CPCG0345_w15
+    longLabel CPCG0345_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w16.bb
+    shortLabel CPCG0345_w16
+    longLabel CPCG0345_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w17.bb
+    shortLabel CPCG0345_w17
+    longLabel CPCG0345_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w18.bb
+    shortLabel CPCG0345_w18
+    longLabel CPCG0345_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w19.bb
+    shortLabel CPCG0345_w19
+    longLabel CPCG0345_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w20.bb
+    shortLabel CPCG0345_w20
+    longLabel CPCG0345_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w3.bb
+    shortLabel CPCG0345_w3
+    longLabel CPCG0345_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w4.bb
+    shortLabel CPCG0345_w4
+    longLabel CPCG0345_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w5.bb
+    shortLabel CPCG0345_w5
+    longLabel CPCG0345_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w6.bb
+    shortLabel CPCG0345_w6
+    longLabel CPCG0345_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w7.bb
+    shortLabel CPCG0345_w7
+    longLabel CPCG0345_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w8.bb
+    shortLabel CPCG0345_w8
+    longLabel CPCG0345_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0345_hg38_w9.bb
+    shortLabel CPCG0345_w9
+    longLabel CPCG0345_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w10.bb
+    shortLabel CPCG0365_w10
+    longLabel CPCG0365_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w11.bb
+    shortLabel CPCG0365_w11
+    longLabel CPCG0365_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w12.bb
+    shortLabel CPCG0365_w12
+    longLabel CPCG0365_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w13.bb
+    shortLabel CPCG0365_w13
+    longLabel CPCG0365_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w14.bb
+    shortLabel CPCG0365_w14
+    longLabel CPCG0365_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w15.bb
+    shortLabel CPCG0365_w15
+    longLabel CPCG0365_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w16.bb
+    shortLabel CPCG0365_w16
+    longLabel CPCG0365_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w17.bb
+    shortLabel CPCG0365_w17
+    longLabel CPCG0365_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w18.bb
+    shortLabel CPCG0365_w18
+    longLabel CPCG0365_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w19.bb
+    shortLabel CPCG0365_w19
+    longLabel CPCG0365_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w20.bb
+    shortLabel CPCG0365_w20
+    longLabel CPCG0365_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w3.bb
+    shortLabel CPCG0365_w3
+    longLabel CPCG0365_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w4.bb
+    shortLabel CPCG0365_w4
+    longLabel CPCG0365_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w5.bb
+    shortLabel CPCG0365_w5
+    longLabel CPCG0365_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w6.bb
+    shortLabel CPCG0365_w6
+    longLabel CPCG0365_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w7.bb
+    shortLabel CPCG0365_w7
+    longLabel CPCG0365_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w8.bb
+    shortLabel CPCG0365_w8
+    longLabel CPCG0365_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0365_hg38_w9.bb
+    shortLabel CPCG0365_w9
+    longLabel CPCG0365_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w10
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w10.bb
+    shortLabel CPCG0366_w10
+    longLabel CPCG0366_hg38_w10 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w11
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w11.bb
+    shortLabel CPCG0366_w11
+    longLabel CPCG0366_hg38_w11 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w12
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w12.bb
+    shortLabel CPCG0366_w12
+    longLabel CPCG0366_hg38_w12 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w13
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w13.bb
+    shortLabel CPCG0366_w13
+    longLabel CPCG0366_hg38_w13 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w14
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w14.bb
+    shortLabel CPCG0366_w14
+    longLabel CPCG0366_hg38_w14 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w15
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w15.bb
+    shortLabel CPCG0366_w15
+    longLabel CPCG0366_hg38_w15 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w16
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w16.bb
+    shortLabel CPCG0366_w16
+    longLabel CPCG0366_hg38_w16 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w17
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w17.bb
+    shortLabel CPCG0366_w17
+    longLabel CPCG0366_hg38_w17 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w18
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w18.bb
+    shortLabel CPCG0366_w18
+    longLabel CPCG0366_hg38_w18 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w19
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w19.bb
+    shortLabel CPCG0366_w19
+    longLabel CPCG0366_hg38_w19 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w20
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w20.bb
+    shortLabel CPCG0366_w20
+    longLabel CPCG0366_hg38_w20 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w3
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w3.bb
+    shortLabel CPCG0366_w3
+    longLabel CPCG0366_hg38_w3 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w4
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w4.bb
+    shortLabel CPCG0366_w4
+    longLabel CPCG0366_hg38_w4 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w5
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w5.bb
+    shortLabel CPCG0366_w5
+    longLabel CPCG0366_hg38_w5 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w6
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w6.bb
+    shortLabel CPCG0366_w6
+    longLabel CPCG0366_hg38_w6 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w7
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w7.bb
+    shortLabel CPCG0366_w7
+    longLabel CPCG0366_hg38_w7 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w8
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w8.bb
+    shortLabel CPCG0366_w8
+    longLabel CPCG0366_hg38_w8 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg38_w9
+    parent Folder1_hg38_Original on
+    bigDataUrl CPCG0366_hg38_w9.bb
+    shortLabel CPCG0366_w9
+    longLabel CPCG0366_hg38_w9 (Folder 1 Original hg38)
+    type bigBed 9 .
+    itemRgb On
+
