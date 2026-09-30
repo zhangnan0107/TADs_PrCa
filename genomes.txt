@@ -1,5 +1,5 @@
-genome hg19
-trackDb hg19_trackDb.txt
-
 genome hg38
-trackDb hg38_trackDb.txt
+trackDb 1.hg38_original/trackDb.txt
+
+genome hg19
+trackDb 2.hg19_liftover/trackDb.txt
