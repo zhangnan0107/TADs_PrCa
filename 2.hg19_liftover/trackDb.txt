@@ -1,0 +1,868 @@
+# ==================================================================
+# hg19 Track Configuration (Folders 2 & 3 Kept Completely Separate)
+# ==================================================================
+
+track Folder2_hg19_LiftOver
+compositeTrack on
+shortLabel 2. hg19 LiftOver
+longLabel Folder 2: hg19 LiftOver TAD Annotations
+visibility squish
+type bigBed 9 .
+itemRgb On
+
+    track BP1595983_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1595983_hg19_boundary_domain.bb
+    shortLabel BP1595983_boundary_domain
+    longLabel BP1595983_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1595983_hg19_boundary.bb
+    shortLabel BP1595983_boundary
+    longLabel BP1595983_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1595983_hg19_domain.bb
+    shortLabel BP1595983_domain
+    longLabel BP1595983_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1595983_hg19_empty.bb
+    shortLabel BP1595983_empty
+    longLabel BP1595983_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1595983_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1595983_hg19_gap.bb
+    shortLabel BP1595983_gap
+    longLabel BP1595983_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1648133_hg19_boundary_domain.bb
+    shortLabel BP1648133_boundary_domain
+    longLabel BP1648133_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1648133_hg19_boundary.bb
+    shortLabel BP1648133_boundary
+    longLabel BP1648133_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1648133_hg19_domain.bb
+    shortLabel BP1648133_domain
+    longLabel BP1648133_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1648133_hg19_empty.bb
+    shortLabel BP1648133_empty
+    longLabel BP1648133_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1648133_hg19_gap.bb
+    shortLabel BP1648133_gap
+    longLabel BP1648133_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1664855_hg19_boundary_domain.bb
+    shortLabel BP1664855_boundary_domain
+    longLabel BP1664855_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1664855_hg19_boundary.bb
+    shortLabel BP1664855_boundary
+    longLabel BP1664855_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1664855_hg19_domain.bb
+    shortLabel BP1664855_domain
+    longLabel BP1664855_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1664855_hg19_empty.bb
+    shortLabel BP1664855_empty
+    longLabel BP1664855_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP1664855_hg19_gap.bb
+    shortLabel BP1664855_gap
+    longLabel BP1664855_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3320942_hg19_boundary_domain.bb
+    shortLabel BP3320942_boundary_domain
+    longLabel BP3320942_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3320942_hg19_boundary.bb
+    shortLabel BP3320942_boundary
+    longLabel BP3320942_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3320942_hg19_domain.bb
+    shortLabel BP3320942_domain
+    longLabel BP3320942_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3320942_hg19_empty.bb
+    shortLabel BP3320942_empty
+    longLabel BP3320942_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3320942_hg19_gap.bb
+    shortLabel BP3320942_gap
+    longLabel BP3320942_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3330581_hg19_boundary_domain.bb
+    shortLabel BP3330581_boundary_domain
+    longLabel BP3330581_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3330581_hg19_boundary.bb
+    shortLabel BP3330581_boundary
+    longLabel BP3330581_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3330581_hg19_domain.bb
+    shortLabel BP3330581_domain
+    longLabel BP3330581_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3330581_hg19_empty.bb
+    shortLabel BP3330581_empty
+    longLabel BP3330581_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl BP3330581_hg19_gap.bb
+    shortLabel BP3330581_gap
+    longLabel BP3330581_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0246_hg19_boundary_domain.bb
+    shortLabel CPCG0246_boundary_domain
+    longLabel CPCG0246_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0246_hg19_boundary.bb
+    shortLabel CPCG0246_boundary
+    longLabel CPCG0246_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0246_hg19_domain.bb
+    shortLabel CPCG0246_domain
+    longLabel CPCG0246_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0246_hg19_empty.bb
+    shortLabel CPCG0246_empty
+    longLabel CPCG0246_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0246_hg19_gap.bb
+    shortLabel CPCG0246_gap
+    longLabel CPCG0246_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0255_hg19_boundary_domain.bb
+    shortLabel CPCG0255_boundary_domain
+    longLabel CPCG0255_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0255_hg19_boundary.bb
+    shortLabel CPCG0255_boundary
+    longLabel CPCG0255_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0255_hg19_domain.bb
+    shortLabel CPCG0255_domain
+    longLabel CPCG0255_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0255_hg19_empty.bb
+    shortLabel CPCG0255_empty
+    longLabel CPCG0255_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0255_hg19_gap.bb
+    shortLabel CPCG0255_gap
+    longLabel CPCG0255_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0258_hg19_boundary_domain.bb
+    shortLabel CPCG0258_boundary_domain
+    longLabel CPCG0258_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0258_hg19_boundary.bb
+    shortLabel CPCG0258_boundary
+    longLabel CPCG0258_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0258_hg19_domain.bb
+    shortLabel CPCG0258_domain
+    longLabel CPCG0258_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0258_hg19_empty.bb
+    shortLabel CPCG0258_empty
+    longLabel CPCG0258_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0258_hg19_gap.bb
+    shortLabel CPCG0258_gap
+    longLabel CPCG0258_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0268_hg19_boundary_domain.bb
+    shortLabel CPCG0268_boundary_domain
+    longLabel CPCG0268_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0268_hg19_boundary.bb
+    shortLabel CPCG0268_boundary
+    longLabel CPCG0268_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0268_hg19_domain.bb
+    shortLabel CPCG0268_domain
+    longLabel CPCG0268_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0268_hg19_empty.bb
+    shortLabel CPCG0268_empty
+    longLabel CPCG0268_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0268_hg19_gap.bb
+    shortLabel CPCG0268_gap
+    longLabel CPCG0268_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0324_hg19_boundary_domain.bb
+    shortLabel CPCG0324_boundary_domain
+    longLabel CPCG0324_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0324_hg19_boundary.bb
+    shortLabel CPCG0324_boundary
+    longLabel CPCG0324_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0324_hg19_domain.bb
+    shortLabel CPCG0324_domain
+    longLabel CPCG0324_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0324_hg19_empty.bb
+    shortLabel CPCG0324_empty
+    longLabel CPCG0324_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0324_hg19_gap.bb
+    shortLabel CPCG0324_gap
+    longLabel CPCG0324_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0331_hg19_boundary_domain.bb
+    shortLabel CPCG0331_boundary_domain
+    longLabel CPCG0331_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0331_hg19_boundary.bb
+    shortLabel CPCG0331_boundary
+    longLabel CPCG0331_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0331_hg19_domain.bb
+    shortLabel CPCG0331_domain
+    longLabel CPCG0331_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0331_hg19_empty.bb
+    shortLabel CPCG0331_empty
+    longLabel CPCG0331_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0331_hg19_gap.bb
+    shortLabel CPCG0331_gap
+    longLabel CPCG0331_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0336_hg19_boundary_domain.bb
+    shortLabel CPCG0336_boundary_domain
+    longLabel CPCG0336_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0336_hg19_boundary.bb
+    shortLabel CPCG0336_boundary
+    longLabel CPCG0336_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0336_hg19_domain.bb
+    shortLabel CPCG0336_domain
+    longLabel CPCG0336_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0336_hg19_empty.bb
+    shortLabel CPCG0336_empty
+    longLabel CPCG0336_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0336_hg19_gap.bb
+    shortLabel CPCG0336_gap
+    longLabel CPCG0336_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0339_hg19_boundary_domain.bb
+    shortLabel CPCG0339_boundary_domain
+    longLabel CPCG0339_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0339_hg19_boundary.bb
+    shortLabel CPCG0339_boundary
+    longLabel CPCG0339_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0339_hg19_domain.bb
+    shortLabel CPCG0339_domain
+    longLabel CPCG0339_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0339_hg19_empty.bb
+    shortLabel CPCG0339_empty
+    longLabel CPCG0339_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0339_hg19_gap.bb
+    shortLabel CPCG0339_gap
+    longLabel CPCG0339_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0342_hg19_boundary_domain.bb
+    shortLabel CPCG0342_boundary_domain
+    longLabel CPCG0342_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0342_hg19_boundary.bb
+    shortLabel CPCG0342_boundary
+    longLabel CPCG0342_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0342_hg19_domain.bb
+    shortLabel CPCG0342_domain
+    longLabel CPCG0342_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0342_hg19_empty.bb
+    shortLabel CPCG0342_empty
+    longLabel CPCG0342_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0342_hg19_gap.bb
+    shortLabel CPCG0342_gap
+    longLabel CPCG0342_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0345_hg19_boundary_domain.bb
+    shortLabel CPCG0345_boundary_domain
+    longLabel CPCG0345_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0345_hg19_boundary.bb
+    shortLabel CPCG0345_boundary
+    longLabel CPCG0345_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0345_hg19_domain.bb
+    shortLabel CPCG0345_domain
+    longLabel CPCG0345_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0345_hg19_empty.bb
+    shortLabel CPCG0345_empty
+    longLabel CPCG0345_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0345_hg19_gap.bb
+    shortLabel CPCG0345_gap
+    longLabel CPCG0345_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0365_hg19_boundary_domain.bb
+    shortLabel CPCG0365_boundary_domain
+    longLabel CPCG0365_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0365_hg19_boundary.bb
+    shortLabel CPCG0365_boundary
+    longLabel CPCG0365_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0365_hg19_domain.bb
+    shortLabel CPCG0365_domain
+    longLabel CPCG0365_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0365_hg19_empty.bb
+    shortLabel CPCG0365_empty
+    longLabel CPCG0365_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0365_hg19_gap.bb
+    shortLabel CPCG0365_gap
+    longLabel CPCG0365_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_boundary_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0366_hg19_boundary_domain.bb
+    shortLabel CPCG0366_boundary_domain
+    longLabel CPCG0366_hg19_boundary_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_boundary
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0366_hg19_boundary.bb
+    shortLabel CPCG0366_boundary
+    longLabel CPCG0366_hg19_boundary (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_domain
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0366_hg19_domain.bb
+    shortLabel CPCG0366_domain
+    longLabel CPCG0366_hg19_domain (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_empty
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0366_hg19_empty.bb
+    shortLabel CPCG0366_empty
+    longLabel CPCG0366_hg19_empty (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_gap
+    parent Folder2_hg19_LiftOver on
+    bigDataUrl CPCG0366_hg19_gap.bb
+    shortLabel CPCG0366_gap
+    longLabel CPCG0366_hg19_gap (Folder 2 LiftOver)
+    type bigBed 9 .
+    itemRgb On
+
+track Folder3_hg19_Flattened_Consensus
+compositeTrack on
+shortLabel 3. hg19 Flattened/Consensus
+longLabel Folder 3: hg19 Flattened Sample TADs and Frequency Consensus
+visibility squish
+type bigBed 9 .
+itemRgb On
+
+    track BP1595983_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/BP1595983_hg19_flattened_TADs.bb
+    shortLabel BP1595983_flattened_TADs
+    longLabel BP1595983_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1648133_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/BP1648133_hg19_flattened_TADs.bb
+    shortLabel BP1648133_flattened_TADs
+    longLabel BP1648133_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP1664855_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/BP1664855_hg19_flattened_TADs.bb
+    shortLabel BP1664855_flattened_TADs
+    longLabel BP1664855_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3320942_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/BP3320942_hg19_flattened_TADs.bb
+    shortLabel BP3320942_flattened_TADs
+    longLabel BP3320942_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track BP3330581_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/BP3330581_hg19_flattened_TADs.bb
+    shortLabel BP3330581_flattened_TADs
+    longLabel BP3330581_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track consensus_Frequency_ERG_neg
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/consensus_Frequency_ERG_neg.bb
+    shortLabel consensus_Frequency_ERG_neg
+    longLabel consensus_Frequency_ERG_neg (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track consensus_Frequency_ERG_pos
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/consensus_Frequency_ERG_pos.bb
+    shortLabel consensus_Frequency_ERG_pos
+    longLabel consensus_Frequency_ERG_pos (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track consensus_Frequency_Normal
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/consensus_Frequency_Normal.bb
+    shortLabel consensus_Frequency_Normal
+    longLabel consensus_Frequency_Normal (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track consensus_Frequency_Tumor
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/consensus_Frequency_Tumor.bb
+    shortLabel consensus_Frequency_Tumor
+    longLabel consensus_Frequency_Tumor (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0246_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0246_hg19_flattened_TADs.bb
+    shortLabel CPCG0246_flattened_TADs
+    longLabel CPCG0246_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0255_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0255_hg19_flattened_TADs.bb
+    shortLabel CPCG0255_flattened_TADs
+    longLabel CPCG0255_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0258_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0258_hg19_flattened_TADs.bb
+    shortLabel CPCG0258_flattened_TADs
+    longLabel CPCG0258_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0268_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0268_hg19_flattened_TADs.bb
+    shortLabel CPCG0268_flattened_TADs
+    longLabel CPCG0268_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0324_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0324_hg19_flattened_TADs.bb
+    shortLabel CPCG0324_flattened_TADs
+    longLabel CPCG0324_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0331_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0331_hg19_flattened_TADs.bb
+    shortLabel CPCG0331_flattened_TADs
+    longLabel CPCG0331_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0336_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0336_hg19_flattened_TADs.bb
+    shortLabel CPCG0336_flattened_TADs
+    longLabel CPCG0336_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0339_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0339_hg19_flattened_TADs.bb
+    shortLabel CPCG0339_flattened_TADs
+    longLabel CPCG0339_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0342_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0342_hg19_flattened_TADs.bb
+    shortLabel CPCG0342_flattened_TADs
+    longLabel CPCG0342_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0345_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0345_hg19_flattened_TADs.bb
+    shortLabel CPCG0345_flattened_TADs
+    longLabel CPCG0345_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0365_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0365_hg19_flattened_TADs.bb
+    shortLabel CPCG0365_flattened_TADs
+    longLabel CPCG0365_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
+    track CPCG0366_hg19_flattened_TADs
+    parent Folder3_hg19_Flattened_Consensus on
+    bigDataUrl ../3.hg19_flattened_consensus/CPCG0366_hg19_flattened_TADs.bb
+    shortLabel CPCG0366_flattened_TADs
+    longLabel CPCG0366_hg19_flattened_TADs (Folder 3 Flattened/Consensus)
+    type bigBed 9 .
+    itemRgb On
+
