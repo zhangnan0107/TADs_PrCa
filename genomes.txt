@@ -1,11 +1,9 @@
 genome hg38
 trackDb 1.hg38_original/trackDb.txt
+trackDb 4.consensus_freq_w20/hg38/trackDb.txt
 
 genome hg19
 trackDb 2.hg19_liftover/trackDb.txt
+trackDb 4.consensus_freq_w20/hg19/trackDb.txt
 
-genome hg19
-trackDb hg19/trackDb.txt
 
-genome hg38
-trackDb hg38/trackDb.txt
